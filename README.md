@@ -1,3 +1,4 @@
 # Mpilo | picx
 
-Project created for HCI presentation on usability guidelines for in a web application
+A small site I created  for Human Computer Interaction(HCI) presentation on usability guidelines for search feature in a web application
+
